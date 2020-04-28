@@ -4,7 +4,32 @@
 	<title>Register</title>
 </head>
 <body>
-	<h1>Welcome to registration</h1><br>
+<div>
+	<form method="GET">
+		<h1>Welcome to registration</h1><br>
+
+		First Name :<input type="text" name="firstname"><br>
+		Last Name: <input type="text" name="lastname"><br>
+		Email: <input type="email" required name="email"><br>
+		Birth Date: <input type="date" name="date"><br>
+		Gender:<br>
+		<input type="radio" name="Gender" value="Male">Male<br>
+		<input type="radio" name="Gender" value="Female">Female<br>
+		<input type="radio" name="Gender" value="Others">Others<br>
+		Pets:<br>
+			<input type="checkbox" name="cat"> Cat <br>
+			<input type="checkbox" name="Dog"> Dog <br>
+
+		Cars:<br>
+			<select name="cars">
+				<option value="Audi" name="Audi"> Audi</option>
+				<option value="BMW" name="BMW"> BMW</option>
+				<option value="Lamborghini" name="Lamborghini"> Lamborghini</option>
+			</select>
+		<input type="submit" value="Register">
+		<input type="reset">
+	</form>
+</div>
 	<a href="index.html">Go back to home</a>
 </body>
 </html>
