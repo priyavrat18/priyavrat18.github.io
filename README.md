@@ -52,7 +52,7 @@ Technologies Used - Java , Spring Boot, Docker
 
 ### **SOFTWARE DEVELOPER (2019-11 to 2020-10)**
 <p align='left'>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Amdocs-2017-brand-mark.svg/1200px-Amdocs-2017-brand-mark.svg.png" alt="Amdocs-logo.svg" width="80" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Amdocs-2017-brand-mark.svg/1200px-Amdocs-2017-brand-mark.svg.png" alt="Amdocs-logo.svg" width="100" height="40">
 </p>
 
 ### Amdocs, Pune, Maharashtra, India
