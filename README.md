@@ -22,7 +22,7 @@ I am a backend engineer with an experience of over 5 years. I have hands on expe
 ## Experience
 
 ### **ASSOCIATE (2021-07 to Present)**
-### Cognizant Technology Solutions, Pune, Maharashtra, India
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cognizant%27s_logo.svg/1200px-Cognizant%27s_logo.svg.png" alt="Cognizant's logo.svg" alt= width="80" height="40">### Cognizant Technology Solutions, Pune, Maharashtra, India
 
 Working as a Backend Developer in Cognizant Center of Excellence Vertical.
 
@@ -42,7 +42,7 @@ Developed and Maintained billing System using Singleview for MasterCard
 Technologies Used - Java , Spring Boot, Docker
 
 ### **SOFTWARE DEVELOPER (2019-11 to 2020-10)**
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Amdocs-2017-brand-mark.svg/1200px-Amdocs-2017-brand-mark.svg.png" alt="Amdocs-2017-brand-mark.svg" alt= width="80" height="40">>### Amdocs, Pune, Maharashtra, India
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Amdocs-2017-brand-mark.svg/1200px-Amdocs-2017-brand-mark.svg.png" alt="Amdocs-logo.svg" alt= width="80" height="40">### Amdocs, Pune, Maharashtra, India
 
 Worked for Cricket wireless (A major telecom provider in US) as a backend developer with little part of frontend as well.
 Migrated old Java JSP Servlets project to Spring Boot framework using microservices and DevOps methodologies.
