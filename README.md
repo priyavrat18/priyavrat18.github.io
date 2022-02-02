@@ -7,7 +7,7 @@ I am a backend engineer with an experience of over 5 years. I have hands on expe
 ## Skills
 
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
@@ -18,7 +18,7 @@ I am a backend engineer with an experience of over 5 years. I have hands on expe
 
 ## Experience
 
-### **Associate**
+### **ASSOCIATE (2021-07 to Present)**
 ### Cognizant Technology Solutions, Pune, Maharashtra, India
 
 Working as a Backend Developer in Cognizant Center of Excellence Vertical.
@@ -29,7 +29,7 @@ Multiple SAP R/3 and SAP ERP legacy systems are being migrated to SAP S/4HANA wh
 
 Technologies Used - Java , Spring Boot, Apache Camel, Kafka, Jenkins, Docker
 
-### **SENIOR DEVELOPMENT CONSULTANT**
+### **SENIOR DEVELOPMENT CONSULTANT (2020-10 to 2021-07)**
 ### CSG Systems International, Bengaluru, Karnataka, India
 
 Developed backend application in order to send data into billing system
@@ -38,7 +38,7 @@ Developed and Maintained billing System using Singleview for MasterCard
 
 Technologies Used - Java , Spring Boot, Docker
 
-### **SOFTWARE DEVELOPER**
+### **SOFTWARE DEVELOPER (2019-11 to 2020-10)**
 ### Amdocs, Pune, Maharashtra, India
 
 Worked for Cricket wireless (A major telecom provider in US) as a backend developer with little part of frontend as well.
@@ -46,7 +46,7 @@ Migrated old Java JSP Servlets project to Spring Boot framework using microservi
 
 Technologies Used - Java, Spring Boot, Kibana, Docker, Kubernetes.
 
-### **SYSTEMS ENGINEER**
+### **SYSTEMS ENGINEER (2016-12 to 2019-11)**
 ### Tata Consultancy Services, Pune , Maharashtra, India
 
 Developed web application in JAVA/J2EE in order to control Autosys Jobs and Oracle simultaneously in a user-friendly UI and to avoid various repeated approvals and manual interventions.
