@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a backend engineer with an experience of over 5 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on Spring Boot with microservices for 3 years. Currently I am learning javascript libraries like react to be a fullstack developer.
+I am a backend engineer with an experience of over 5 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on Spring Boot with microservices for 3 years. Currently I am learning javascript libraries like react to become a fullstack developer.
 
 ---
 
