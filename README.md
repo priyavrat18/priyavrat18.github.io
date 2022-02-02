@@ -23,9 +23,8 @@ I am a backend engineer with an experience of over 5 years. I have hands on expe
 ## Experience
 
 ### **ASSOCIATE (2021-07 to Present)**
-<p align='left'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cognizant%27s_logo.svg/1200px-Cognizant%27s_logo.svg.png" alt="Cognizant's logo.svg" alt= width="80" height="40">
-</p>
+
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40">
 
 ### Cognizant Technology Solutions, Pune, Maharashtra, India
 
