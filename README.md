@@ -52,7 +52,7 @@ Technologies Used - Java , Spring Boot, Docker
 
 ### **SOFTWARE DEVELOPER (2019-11 to 2020-10)**
 <p align='left'>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Amdocs-2017-brand-mark.svg/1200px-Amdocs-2017-brand-mark.svg.png" alt="Amdocs-logo.svg" width="150" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Amdocs-2017-brand-mark.svg/1200px-Amdocs-2017-brand-mark.svg.png" alt="Amdocs-logo.svg" width="160" height="40">
 </p>
 
 ### Amdocs, Pune, Maharashtra, India
@@ -65,7 +65,7 @@ Technologies Used - Java, Spring Boot, Kibana, Docker, Kubernetes.
 ### **SYSTEMS ENGINEER (2016-12 to 2019-11)**
 
 <p align='left'>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TCS_Official_Logo.svg/1200px-TCS_Official_Logo.svg.png" alt="TCS Logo" width="120" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TCS_Official_Logo.svg/1200px-TCS_Official_Logo.svg.png" alt="TCS Logo" width="160" height="40">
 </p>
 
 ### Tata Consultancy Services, Pune , Maharashtra, India
