@@ -44,11 +44,11 @@ I am a backend engineer with an experience of over 5 years. I have hands on expe
 </p>
 ### CSG Systems International, Bengaluru, Karnataka, India
 
-Developed backend application in order to send data into billing system
+> Developed backend application in order to send data into billing system
 
-Developed and Maintained billing System using Singleview for MasterCard
+> Developed and Maintained billing System using Singleview for MasterCard
 
-Technologies Used - Java , Spring Boot, Docker
+> Technologies Used - Java , Spring Boot, Docker
 
 ### **SOFTWARE DEVELOPER (2019-11 to 2020-10)**
 <p align='left'>
@@ -57,10 +57,11 @@ Technologies Used - Java , Spring Boot, Docker
 
 ### Amdocs, Pune, Maharashtra, India
 
-Worked for Cricket wireless (A major telecom provider in US) as a backend developer with little part of frontend as well.
-Migrated old Java JSP Servlets project to Spring Boot framework using microservices and DevOps methodologies.
+> Worked for Cricket wireless (A major telecom provider in US) as a backend developer with little part of frontend as well.
 
-Technologies Used - Java, Spring Boot, Kibana, Docker, Kubernetes.
+> Migrated old Java JSP Servlets project to Spring Boot framework using microservices and DevOps methodologies.
+
+> Technologies Used - Java, Spring Boot, Kibana, Docker, Kubernetes.
 
 ### **SYSTEMS ENGINEER (2016-12 to 2019-11)**
 
@@ -70,11 +71,11 @@ Technologies Used - Java, Spring Boot, Kibana, Docker, Kubernetes.
 
 ### Tata Consultancy Services, Pune , Maharashtra, India
 
-Developed web application in JAVA/J2EE in order to control Autosys Jobs and Oracle simultaneously in a user-friendly UI and to avoid various repeated approvals and manual interventions.
+> Developed web application in JAVA/J2EE in order to control Autosys Jobs and Oracle simultaneously in a user-friendly UI and to avoid various repeated approvals and manual interventions.
 
-Integrated DevOps CICD pipeline using various tools like BitBucket, Nexus Repository, Jenkins and Nolio.
+> Integrated DevOps CICD pipeline using various tools like BitBucket, Nexus Repository, Jenkins and Nolio.
 
-Technologies Used - Java,Spring, Git, Jenkins, Nolio, Linux, Apache Tomcat
+> Technologies Used - Java,Spring, Git, Jenkins, Nolio, Linux, Apache Tomcat
 
 ---
 
