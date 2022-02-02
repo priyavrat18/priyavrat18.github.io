@@ -39,6 +39,9 @@ Multiple SAP R/3 and SAP ERP legacy systems are being migrated to SAP S/4HANA wh
 Technologies Used - Java , Spring Boot, Apache Camel, Kafka, Jenkins, Docker
 
 ### **SENIOR DEVELOPMENT CONSULTANT (2020-10 to 2021-07)**
+
+<p align='left'><img src="https://upload.wikimedia.org/wikipedia/commons/0/03/CSGI_Logo.png" alt="CSGI Logo.png"  width="80" height="40">
+</p>
 ### CSG Systems International, Bengaluru, Karnataka, India
 
 Developed backend application in order to send data into billing system
@@ -49,7 +52,7 @@ Technologies Used - Java , Spring Boot, Docker
 
 ### **SOFTWARE DEVELOPER (2019-11 to 2020-10)**
 <p align='left'>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Amdocs-2017-brand-mark.svg/1200px-Amdocs-2017-brand-mark.svg.png" alt="Amdocs-logo.svg" alt= width="80" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Amdocs-2017-brand-mark.svg/1200px-Amdocs-2017-brand-mark.svg.png" alt="Amdocs-logo.svg" width="80" height="40">
 </p>
 
 ### Amdocs, Pune, Maharashtra, India
