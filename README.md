@@ -25,7 +25,7 @@ I am a backend engineer with an experience of over 5 years. I have hands on expe
 
 
 <p align='left'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cognizant%27s_logo.svg/1200px-Cognizant%27s_logo.svg.png" alt="Cognizant's logo.svg" width="150" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cognizant%27s_logo.svg/1200px-Cognizant%27s_logo.svg.png" alt="Cognizant's logo.svg" width="160" height="40">
 </p>
 
 ### Cognizant Technology Solutions, Pune, Maharashtra, India
