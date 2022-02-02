@@ -30,9 +30,9 @@ I am a backend engineer with an experience of over 5 years. I have hands on expe
 
 ### Cognizant Technology Solutions, Pune, Maharashtra, India
 
-Working as a Backend Developer in Cognizant Center of Excellence Vertical.
+> Working as a Backend Developer in Cognizant Center of Excellence Vertical.
 
-Developing Microservices using SpringBoot and latest technologies for a Major University of UK
+> Developing Microservices using SpringBoot and latest technologies for a Major University of UK
 
 Multiple SAP R/3 and SAP ERP legacy systems are being migrated to SAP S/4HANA which were earlier interfacing with various partner systems for billing, invoices, orders, reports etc. A new middleware system architecture is being developed in Azure Cloud-based Spring Boot Apache Camel microservices to manage and process the interface between S/4HANA and partner systems.
 
