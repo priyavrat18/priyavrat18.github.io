@@ -26,7 +26,9 @@ I am a backend engineer with an experience of over 5 years. I have hands on expe
 
 
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40">  ### Cognizant Technology Solutions, Pune, Maharashtra, India
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40">  
+
+### Cognizant Technology Solutions, Pune, Maharashtra, India
 
 Working as a Backend Developer in Cognizant Center of Excellence Vertical.
 
