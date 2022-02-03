@@ -69,9 +69,7 @@ I am a backend engineer with an experience of over 5 years. I have hands on expe
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TCS_Official_Logo.svg/1200px-TCS_Official_Logo.svg.png" alt="TCS Logo" width="180" height="40">
 </p>
 
-<p align='left'>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TCS_Official_Logo.svg/1200px-TCS_Official_Logo.svg.png" alt="TCS Logo" width="180" height="40">
-</p>### Tata Consultancy Services, Pune , Maharashtra, India 
+### Tata Consultancy Services, Pune , Maharashtra, India 
 
 > Developed web application in JAVA/J2EE in order to control Autosys Jobs and Oracle simultaneously in a user-friendly UI and to avoid various repeated approvals and manual interventions.
 
