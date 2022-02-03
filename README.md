@@ -52,7 +52,7 @@ I am a backend engineer with an experience of over 5 years. I have hands on expe
 
 ### **SOFTWARE DEVELOPER (2019-11 to 2020-10)**
 <p align='left'>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Amdocs-2017-brand-mark.svg/1200px-Amdocs-2017-brand-mark.svg.png" alt="Amdocs-logo.svg" width="160" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Amdocs-2017-brand-mark.svg/1200px-Amdocs-2017-brand-mark.svg.png" alt="Amdocs-logo.svg" width="180" height="40">
 </p>
 
 ### Amdocs, Pune, Maharashtra, India
