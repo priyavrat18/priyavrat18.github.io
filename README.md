@@ -66,7 +66,7 @@ I am a backend engineer with an experience of over 5 years. I have hands on expe
 ### **SYSTEMS ENGINEER (2016-12 to 2019-11)**
 
 <p align='left'>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TCS_Official_Logo.svg/1200px-TCS_Official_Logo.svg.png" alt="TCS Logo" width="190" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/TCS_Official_Logo.svg/1200px-TCS_Official_Logo.svg.png" alt="TCS Logo" width="180" height="40">
 </p>
 
 ### Tata Consultancy Services, Pune , Maharashtra, India
