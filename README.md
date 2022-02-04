@@ -61,7 +61,7 @@ I am a backend engineer with an experience of over 5 years. I have hands on expe
 
 > Migrated old Java JSP Servlets project to Spring Boot framework using microservices and DevOps methodologies.
 
-> Technologies Used - Java, Spring Boot, Kibana, Docker, Kubernetes.
+> Technologies Used - Java, Spring Boot,Python Kibana, Docker, Kubernetes,Linux,Bash.
 
 ### **SYSTEMS ENGINEER (2016-12 to 2019-11)**
 
